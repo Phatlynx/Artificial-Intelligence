@@ -1,12 +1,19 @@
 # Artificial-Intelligence
 This is my repo for projects and code related to AI and machine learning techniques and algorithms
 
-**Reinforcement Learning** was done in collaboration with 
+**Tasks Completed:**
 
-...https://github.com/arnodunstatter
+- Implementing and Experimenting with Randomized Hill Climbing 
+- Solving Discrete Constraint Satisfaction Problems 
+- Using Support Vector Machines and Neural Networks (Multi-Layer Perceptron - MLP)
+- BERT - Sentiment Classification on a Movie Review Dataset 
+- Using a Belief Network Tool 
+- **Reinforcement Learning** was done in collaboration with 
 
-...https://github.com/jxcronay
+  - https://github.com/arnodunstatter
 
-...https://github.com/jingo0
+  - https://github.com/jxcronay
 
-Please see PDF file for details of analysis
+  - https://github.com/jingo0
+
+    - Please see PDF file for details of analysis
