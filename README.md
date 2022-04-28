@@ -3,9 +3,9 @@ This is my repo for projects and code related to AI and machine learning techniq
 
 **Tasks Completed:**
 
-- Implementing and Experimenting with **Randomized Hill Climbing 
-- Solving Discrete **Constraint Satisfaction Problems 
-- Using **Support Vector Machines** and **Neural Networks (Multi-Layer Perceptron - MLP)
+- Implementing and Experimenting with **Randomized Hill Climbing**
+- Solving Discrete **Constraint Satisfaction Problems**
+- Using **Support Vector Machines** and **Neural Networks (Multi-Layer Perceptron - MLP)**
 - **BERT** - Sentiment Classification on a Movie Review Dataset 
 - Using a **Belief Network** Tool 
 - **Reinforcement Learning** was done in collaboration with 
