@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arnod\\Documents\\School\\Comp Sci\\2022.1 Spring\\COSC 4368 - Artificial Intelligence\\Group Project\\COSC4368-RL-Project\\COSC4368-RL-Project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arnod\\Documents\\School\\Comp Sci\\2022.1 Spring\\COSC 4368 - Artificial Intelligence\\Group Project\\COSC4368-RL-Project\\COSC4368-RL-Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arnod\\Documents\\School\\Comp Sci\\2022.1 Spring\\COSC 4368 - Artificial Intelligence\\Group Project\\COSC4368-RL-Project\\COSC4368-RL-Project.csproj",
+        "projectName": "COSC4368-RL-Project",
+        "projectPath": "C:\\Users\\arnod\\Documents\\School\\Comp Sci\\2022.1 Spring\\COSC 4368 - Artificial Intelligence\\Group Project\\COSC4368-RL-Project\\COSC4368-RL-Project.csproj",
+        "packagesPath": "C:\\Users\\arnod\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arnod\\Documents\\School\\Comp Sci\\2022.1 Spring\\COSC 4368 - Artificial Intelligence\\Group Project\\COSC4368-RL-Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arnod\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

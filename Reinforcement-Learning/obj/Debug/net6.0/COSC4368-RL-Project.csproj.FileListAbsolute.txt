@@ -1,0 +1,5 @@
+C:\Users\arnod\Documents\School\Comp Sci\2022.1 Spring\COSC 4368 - Artificial Intelligence\Group Project\COSC4368-RL-Project\obj\Debug\net6.0\COSC4368-RL-Project.csproj.AssemblyReference.cache
+C:\Users\arnod\Documents\School\Comp Sci\2022.1 Spring\COSC 4368 - Artificial Intelligence\Group Project\COSC4368-RL-Project\obj\Debug\net6.0\COSC4368-RL-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnod\Documents\School\Comp Sci\2022.1 Spring\COSC 4368 - Artificial Intelligence\Group Project\COSC4368-RL-Project\obj\Debug\net6.0\COSC4368-RL-Project.AssemblyInfoInputs.cache
+C:\Users\arnod\Documents\School\Comp Sci\2022.1 Spring\COSC 4368 - Artificial Intelligence\Group Project\COSC4368-RL-Project\obj\Debug\net6.0\COSC4368-RL-Project.AssemblyInfo.cs
+C:\Users\arnod\Documents\School\Comp Sci\2022.1 Spring\COSC 4368 - Artificial Intelligence\Group Project\COSC4368-RL-Project\obj\Debug\net6.0\COSC4368-RL-Project.csproj.CoreCompileInputs.cache
