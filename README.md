@@ -1,7 +1,7 @@
 # Artificial-Intelligence
 This is my repo for projects and code related to AI and machine learning techniques and algorithms
 
-**Tasks Completed:**
+### **Tasks Completed:**
 
 - Implementing and Experimenting with **Randomized Hill Climbing**
 - Solving Discrete **Constraint Satisfaction Problems**
